@@ -10,7 +10,7 @@ My name is Isaac Magalhães Luciano, i'm 22 years old and i've been coding for 7
 
 - 🔭 I’m currently working on a game using OpenGL & C++ that i will be making available very soon.
 
-=== My favorite line of code is: ===
+==My favorite line of code is:==
 
 ```javascript
 console.log("wtf, it worked on the first run?");
