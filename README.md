@@ -13,7 +13,7 @@ My name is Isaac Magalhães Luciano, i'm 22 years old and i've been coding for 7
 === My favorite line of code is: ===
 
 ```javascript
-console.log("wtf, it worked on the first run?");
+console.log("omg, it worked on the first run?");
 ```
 
 - 📫 How to reach me:
