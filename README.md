@@ -18,8 +18,7 @@ console.log("omg, it worked on the first run?");
 
 - 📫 How to reach me:
 1. Linkedin: https://www.linkedin.com/in/caasieu/
-2. Instagram: https://www.instagram.com/caasieu
-3. E-mail: caasim353@gmail.com
+2. E-mail: caasim353@gmail.com
 
 <!--
 **caasieu/caasieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
