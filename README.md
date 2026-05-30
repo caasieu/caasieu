@@ -1,2 +1,1 @@
-## Hi there 👋
-Desenvolvedor de Software 
+## Software Developer
