@@ -1,1 +1,1 @@
-Software Developer | Minimalist & Perfeccionist 
+Software Developer 
