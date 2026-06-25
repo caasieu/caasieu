@@ -1,10 +1,28 @@
 ## Software Engineer | Building Scalable Web Applications, Cloud Infrastructure & System Design
 
 <div align="center">
+
   <a href="https://github.com/caasieu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caasieu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caasieu&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="165em"
+      src="https://github-readme-stats.vercel.app/api?username=caasieu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+
+  <a href="https://github.com/caasieu">
+    <img height="165em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caasieu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  </a>
+
 </div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=caasieu&theme=tokyonight&hide_border=true"
+    height="165em"
+  />
+
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
