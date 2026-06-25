@@ -1,6 +1,6 @@
 ## Software Engineer | Building Scalable Web Applications, Cloud Infrastructure & System Design
 
-<div align="center">
+<div align="start">
 
   <a href="https://github.com/caasieu">
     <img height="165em"
