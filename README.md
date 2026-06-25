@@ -2,16 +2,12 @@
 
 <div align="center">
 
-  <!--<a href="https://github.com/caasieu">
+  <a href="https://github.com/caasieu">
     <img height="165em"
       src="https://github-readme-stats.vercel.app/api?username=caasieu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>-->
+  </a>
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=caasieu&theme=tokyonight&hide_border=true"
-    height="165em"
-  />
-
+  
   <a href="https://github.com/caasieu">
     <img height="165em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caasieu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
