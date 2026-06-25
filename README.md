@@ -31,7 +31,7 @@ Hi, i'm a Software Engineer focused on building scalable web applications, cloud
 
   <a href="https://www.linkedin.com/in/caasieu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&color=1f2a44" />
-  </a>-->
+  </a>
 
   <a href="https://www.instagram.com/caasieu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white&color=1f2a44" />
@@ -41,4 +41,4 @@ Hi, i'm a Software Engineer focused on building scalable web applications, cloud
     <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&color=1f2a44" />
   </a>
 
-</div>
+</div>-->
