@@ -1,2 +1,1 @@
-Software Engineer | Web Applications, 
-Cloud Infrastructure & System Design
+Software Engineer | Building Scalable Web Applications, Cloud Infrastructure & System Design
