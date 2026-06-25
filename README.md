@@ -1,4 +1,4 @@
-## Software Engineer | Building Scalable Web Applications, Cloud Infrastructure & System Design
+Hi, i'm a Software Engineer focused on building scalable web applications, cloud infrastructure & system Design.
 
 <div align="start">
 
@@ -15,22 +15,23 @@
 
 </div>
 
-<div align="start">
+<!--<div align="start">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=caasieu&theme=tokyonight&hide_border=true"
     height="165em"
   />
 
-</div>
+</div>-->
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=caasieu&theme=tokyo-night&hide_border=true" />-->
 
-##
+
+<!--##
 <div align="center">
 
   <a href="https://www.linkedin.com/in/caasieu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&color=1f2a44" />
-  </a>
+  </a>-->
 
   <a href="https://www.instagram.com/caasieu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white&color=1f2a44" />
