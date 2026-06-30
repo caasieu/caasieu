@@ -45,7 +45,7 @@ I enjoy transforming ideas into production-ready software while following clean 
 
 ## Scrum Sprint Manager
 
-Full-stack project inspired by Jira.
+Full-stack project.
 
 **Highlights**
 
