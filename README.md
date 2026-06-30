@@ -1,44 +1,116 @@
-Hi, i'm a Software Engineer focused on building scalable web applications, cloud infrastructure & system Design.
+<div align="center">
 
-<div align="start">
+# Hi, I'm Isaac 👋
 
-  <a href="https://github.com/caasieu">
-    <img height="165em"
-      src="https://github-readme-stats.vercel.app/api?username=caasieu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
+### Software Engineer
 
-  
-  <a href="https://github.com/caasieu">
-    <img height="165em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caasieu&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-  </a>
+Building scalable backend systems, cloud infrastructure and modern web applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/caasieu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:isaacmagalhaesluciano@gmail.com)
 
 </div>
 
-<!--<div align="start">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=caasieu&theme=tokyonight&hide_border=true"
-    height="165em"
-  />
+---
 
-</div>-->
+# 💻 About Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caasieu&theme=tokyo-night&hide_border=true" />
+I'm a Software Engineer passionate about building scalable applications and designing reliable backend systems.
 
+Currently I'm focused on:
 
-<!--##
+- ⚙️ Backend Engineering
+- ☁️ Cloud Infrastructure
+- 🚀 DevOps & CI/CD
+- 🐳 Docker & Kubernetes
+- 🏗️ Software Architecture
+- 📈 System Design
+
+I enjoy transforming ideas into production-ready software while following clean architecture and engineering best practices.
+
+---
+
+# 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,typescript,javascript,nextjs,react,vue,postgres,prisma,docker,kubernetes,redis,aws,linux,git,github,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## Scrum Sprint Manager
+
+Full-stack project inspired by Jira.
+
+**Highlights**
+
+- Authentication
+- Team Management
+- Sprint Planning
+- Task Management
+- Docker
+- CI/CD
+- PostgreSQL
+- REST API
+- System Design Documentation
+
+---
+
+## Game Catalog
+
+Modern Vue application consuming the RAWG API.
+
+- Vue.js
+- REST APIs
+- Responsive UI
+- Search
+- Filtering
+- Performance Optimizations
+
+---
+
+# 📚 Currently Learning
+
+- Distributed Systems
+- Kubernetes
+- AWS
+- Terraform
+- Event-Driven Architecture
+- Advanced System Design
+
+---
+
+# 📊 GitHub Activity
+
+> My contribution graph and activity are automatically updated.
+
+![Snake animation](https://raw.githubusercontent.com/caasieu/caasieu/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 📈 GitHub Contributions
+
+<img src="https://ghchart.rshah.org/caasieu" />
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready SaaS applications
+- Master Kubernetes
+- Obtain AWS Certification
+- Contribute to Open Source
+- Deepen System Design knowledge
+
+---
+
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/caasieu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&color=1f2a44" />
-  </a>
+*"Great software is built through good engineering, not just good code."*
 
-  <a href="https://www.instagram.com/caasieu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white&color=1f2a44" />
-  </a>
-
-  <a href="mailto:isaacmagalhaesluciano@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&color=1f2a44" />
-  </a>
-
-</div>-->
+</div>
