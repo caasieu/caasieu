@@ -26,7 +26,7 @@ Hi, i'm a Software Engineer focused on building scalable web applications, cloud
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=caasieu&theme=tokyo-night&hide_border=true" />-->
 
 
-##
+<!--##
 <div align="center">
 
   <a href="https://www.linkedin.com/in/caasieu" target="_blank">
@@ -41,4 +41,4 @@ Hi, i'm a Software Engineer focused on building scalable web applications, cloud
     <img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&color=1f2a44" />
   </a>
 
-</div>
+</div>-->
