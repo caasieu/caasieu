@@ -85,14 +85,6 @@ Modern Vue application consuming the RAWG API.
 
 ---
 
-# 📊 GitHub Activity
-
-> My contribution graph and activity are automatically updated.
-
-![Snake animation](https://raw.githubusercontent.com/caasieu/caasieu/output/github-contribution-grid-snake-dark.svg)
-
----
-
 # 📈 GitHub Contributions
 
 <img src="https://ghchart.rshah.org/caasieu" />
