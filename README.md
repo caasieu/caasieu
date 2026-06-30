@@ -23,7 +23,7 @@ Hi, i'm a Software Engineer focused on building scalable web applications, cloud
 
 </div>-->
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=caasieu&theme=tokyo-night&hide_border=true" />-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caasieu&theme=tokyo-night&hide_border=true" />
 
 
 <!--##
