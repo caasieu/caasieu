@@ -10,6 +10,5 @@ Building scalable backend systems, cloud infrastructure and modern web applicati
 
 --- 
 
-*"Great software is built through good engineering, not just good code."*
-
+*"The people who are crazy enough to think they can change the world, are the ones who do."* - Steve Jobs
 </div>
