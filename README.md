@@ -85,22 +85,6 @@ Modern Vue application consuming the RAWG API.
 
 ---
 
-# 📈 GitHub Contributions
-
-<img src="https://ghchart.rshah.org/caasieu" />
-
----
-
-# 🎯 2026 Goals
-
-- Build production-ready SaaS applications
-- Master Kubernetes
-- Obtain AWS Certification
-- Contribute to Open Source
-- Deepen System Design knowledge
-
----
-
 <div align="center">
 
 *"Great software is built through good engineering, not just good code."*
