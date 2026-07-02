@@ -2,7 +2,7 @@
 
 ### Isaac Luciano Jr - Software Engineer
 
-Building scalable backend systems, cloud infrastructure and modern web applications.
+Building Scalable Web Applications, Cloud Infrastructure & System Design.
 
 ---
 <div align="center">
