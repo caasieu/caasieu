@@ -8,6 +8,8 @@ Building scalable backend systems, cloud infrastructure and modern web applicati
 
 <div align="center">
 
+--- 
+
 *"Great software is built through good engineering, not just good code."*
 
 </div>
